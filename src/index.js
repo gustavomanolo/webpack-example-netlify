@@ -7,4 +7,4 @@ import '@styles/vars.styl'
   main.innerHTML = await Template();
 })();
 
-console.log('-> hello3')
+console.log('-> hello')
