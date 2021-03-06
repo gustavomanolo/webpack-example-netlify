@@ -8,3 +8,9 @@ import '@styles/vars.styl'
 })();
 
 console.log('-> hello GUX')
+
+/*
+  Bundle sin todos los extras del entorno dev
+  npx webpack --profile --json > stats.json
+  npx webpack-bundle-analyzer stats.json
+ */
